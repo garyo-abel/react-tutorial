@@ -126,7 +126,7 @@ function Footer() {
   );
 }
 
-const Loading: React.FC = () => {
+const Loading = () => {
   return <p>Loading...</p>;
 };
 
